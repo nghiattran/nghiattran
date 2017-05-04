@@ -155,3 +155,7 @@ a:hover {
 	background-color: rgb(30, 30, 30);
 	color: white !important;
 }
+
+.middle {
+	margin:0 auto;
+}
